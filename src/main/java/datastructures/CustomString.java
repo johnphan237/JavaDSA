@@ -7,6 +7,7 @@ public class CustomString {
      * @param str
      * @throws NullPointerException if str is null
      */
+    @Deprecated
     public static void printString(String str){
         System.out.println("Printing string with for loop");
         if (str == null){
@@ -73,4 +74,17 @@ public class CustomString {
         }
         return str.toLowerCase();
     }
+
+    /**
+     * Compare two strings 
+     * @param str1 ,str2
+     * @return true if str1 is equal to str2, false otherwise
+     */
+    public static boolean compareTwoStrings(String str1, String str2){
+        if (str1 == null || str2 == null){
+            throw new NullPointerException("String is null, please check your input");
+        }
+        return str1.equals(str2);
+    }
+    
 }
