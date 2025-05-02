@@ -1,21 +1,28 @@
-package datastructures;
+package DSA.string;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class CustomString {
+    private static final Logger logger = LoggerFactory.getLogger(CustomString.class);
 
     /**
      * Print string with for loop
      * @param str
+     * @deprecated Use {@link #printStringWithForEach(String)} instead
      * @throws NullPointerException if str is null
      */
-    @Deprecated
+    @Deprecated(since = "30-04-2025", forRemoval = false)
     public static void printString(String str){
-        System.out.println("Printing string with for loop");
+        logger.info("Printing string with for loop");
         if (str == null){
+            logger.error("String is null, please check your input");
             throw new NullPointerException("String is null, please check your input");
         }
         for (int i = 0; i < str.length(); i++){
-            System.out.println(str.charAt(i));
+            logger.debug("Current character at position {}: {}", i, str.charAt(i));
         }
+        logger.trace("Exiting printString");
     }
 
     /**
@@ -25,15 +32,17 @@ public class CustomString {
      */
 
     public static void printStringWithWhileDo(String str){
-        System.out.println("Printing string with while do loop");
+        logger.info("Printing string with while do loop");
         if (str == null){
+            logger.error("String is null, please check your input");
             throw new NullPointerException("String is null, please check your input");
         }
         int i = 0;
         do {
-            System.out.println(str.charAt(i));
+            logger.debug("Current character at position {}: {}", i, str.charAt(i));
             i++;
         } while (i < str.length());
+        logger.trace("Exiting printStringWithWhileDo");
     }
 
     /**
@@ -42,13 +51,15 @@ public class CustomString {
      * @throws NullPointerException if string is null
      */
     public static void printStringWithForEach(String str){
-        System.out.println("Printing string with for each loop");
+        logger.info("Printing string with for each loop");
         if (str == null){
+            logger.error("String is null, please check your input");
             throw new NullPointerException("String is null, please check your input");
         }
         for (char c : str.toCharArray()){
-            System.out.println(c);
+            logger.debug("Current character: {}", c);
         }
+        logger.trace("Exiting printStringWithForEach");
     }
 
     /**
@@ -57,10 +68,15 @@ public class CustomString {
      * @return string in uppercase
      */
     public static String convertStringToUpperCase(String str){
+        logger.info("Converting string to uppercase: {}", str);
         if (str == null){
+            logger.error("String is null, please check your input");
             throw new NullPointerException("String is null, please check your input");
         }
-        return str.toUpperCase();
+        String result = str.toUpperCase();
+        logger.debug("Converted string: {}", result);
+        logger.trace("Exiting convertStringToUpperCase");
+        return result;
     }
 
     /**
@@ -69,10 +85,15 @@ public class CustomString {
      * @return string in lowercase
      */
     public static String convertStringToLowerCase(String str){
+        logger.info("Converting string to lowercase: {}", str);
         if (str == null){
+            logger.error("String is null, please check your input");
             throw new NullPointerException("String is null, please check your input");
         }
-        return str.toLowerCase();
+        String result = str.toLowerCase();
+        logger.debug("Converted string: {}", result);
+        logger.trace("Exiting convertStringToLowerCase");
+        return result;
     }
 
     /**
@@ -81,10 +102,14 @@ public class CustomString {
      * @return true if str1 is equal to str2, false otherwise
      */
     public static boolean compareTwoStrings(String str1, String str2){
+        logger.info("Comparing strings: {} and {}", str1, str2);
         if (str1 == null || str2 == null){
+            logger.error("String is null, please check your input");
             throw new NullPointerException("String is null, please check your input");
         }
-        return str1.equals(str2);
+        boolean result = str1.equals(str2);
+        logger.debug("Comparison result: {}", result);
+        logger.trace("Exiting compareTwoStrings");
+        return result;
     }
-    
 }
