@@ -22,7 +22,7 @@ public class CustomString {
         for (int i = 0; i < str.length(); i++){
             logger.debug("Current character at position {}: {}", i, str.charAt(i));
         }
-        logger.trace("Exiting printString");
+        logger.info("Exiting printString");
     }
 
     /**
@@ -42,7 +42,7 @@ public class CustomString {
             logger.debug("Current character at position {}: {}", i, str.charAt(i));
             i++;
         } while (i < str.length());
-        logger.trace("Exiting printStringWithWhileDo");
+        logger.info("Exiting printStringWithWhileDo");
     }
 
     /**
@@ -52,14 +52,18 @@ public class CustomString {
      */
     public static void printStringWithForEach(String str){
         logger.info("Printing string with for each loop");
-        if (str == null){
-            logger.error("String is null, please check your input");
-            throw new NullPointerException("String is null, please check your input");
+        try {
+            // if (str == null){
+            //     logger.error("String is null, please check your input");
+            //     throw new NullPointerException("String is null, please check your input");
+            // }
+            for (char c : str.toCharArray()){
+                logger.debug("Current character: {}", c);
+            }
+        } catch (Exception e) {
+            logger.error("Error occurred while printing string with for each loop: {}", e.getMessage());
         }
-        for (char c : str.toCharArray()){
-            logger.debug("Current character: {}", c);
-        }
-        logger.trace("Exiting printStringWithForEach");
+        logger.info("Exiting printStringWithForEach");
     }
 
     /**
@@ -75,7 +79,7 @@ public class CustomString {
         }
         String result = str.toUpperCase();
         logger.debug("Converted string: {}", result);
-        logger.trace("Exiting convertStringToUpperCase");
+        logger.info("Exiting convertStringToUpperCase");
         return result;
     }
 
@@ -92,7 +96,7 @@ public class CustomString {
         }
         String result = str.toLowerCase();
         logger.debug("Converted string: {}", result);
-        logger.trace("Exiting convertStringToLowerCase");
+        logger.info("Exiting convertStringToLowerCase");
         return result;
     }
 
@@ -109,7 +113,7 @@ public class CustomString {
         }
         boolean result = str1.equals(str2);
         logger.debug("Comparison result: {}", result);
-        logger.trace("Exiting compareTwoStrings");
+        logger.info("Exiting compareTwoStrings");
         return result;
     }
 }

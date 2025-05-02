@@ -1,0 +1,261 @@
+
+2025-05-02 21:35:09 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 21:35:09 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 21:35:09 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 21:35:09 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 21:35:09 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 21:35:09 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 21:35:09 TRACE [main] DSA.string.CustomString - Exiting printString
+2025-05-02 21:35:09 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 21:35:09 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 21:35:21 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 21:35:21 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 21:35:21 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 21:35:21 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 21:35:21 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 21:35:21 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 21:35:21 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 21:35:21 TRACE [main] DSA.string.CustomString - Exiting printString
+2025-05-02 21:35:21 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 21:35:21 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:06:38 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:06:38 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:06:38 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:06:38 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:06:38 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:06:38 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:06:38 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:06:38 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:06:38 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:06:38 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:07:28 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:07:28 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:07:28 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:07:28 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:07:28 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:10:00 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:10:00 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:10:00 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:10:00 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:10:00 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:11:05 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:11:05 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:11:05 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:11:05 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:11:05 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:11:05 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:11:05 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:11:05 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:11:05 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:11:05 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:12:08 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:12:08 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:12:08 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:12:08 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:12:08 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:12:08 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:12:08 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:12:08 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:12:08 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:12:08 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:13:16 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:13:16 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:13:16 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:13:16 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:13:16 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:13:16 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:13:16 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:13:16 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:13:16 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:13:16 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:13:51 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:13:51 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:13:51 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:13:51 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:13:51 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:13:51 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:13:51 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:13:51 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:13:51 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:13:51 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:14:59 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:14:59 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:14:59 ERROR [main] DSA.string.CustomString - Error occurred while printing string: String is null, please check your input
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Exiting printStringWithForEach
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Printing string with while do loop
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Exiting printStringWithWhileDo
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Converting string to uppercase: hello
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Converted string: HELLO
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Exiting convertStringToUpperCase
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Converting string to lowercase: Hello
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Converted string: hello
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Exiting convertStringToLowerCase
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Comparing strings: Hello and Hello
+2025-05-02 22:14:59 DEBUG [main] DSA.string.CustomString - Comparison result: true
+2025-05-02 22:14:59 INFO  [main] DSA.string.CustomString - Exiting compareTwoStrings
+2025-05-02 22:14:59 INFO  [main] DSATest.CustomStringTest - CustomStringTest completed successfully
+2025-05-02 22:17:05 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:17:05 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:17:05 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:17:05 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:17:05 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:17:05 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:17:05 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:17:05 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:17:05 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:17:05 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:17:52 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:17:52 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:17:52 ERROR [main] DSA.string.CustomString - Error occurred while printing string: String is null, please check your input
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Exiting printStringWithForEach
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Printing string with while do loop
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Exiting printStringWithWhileDo
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Converting string to uppercase: hello
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Converted string: HELLO
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Exiting convertStringToUpperCase
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Converting string to lowercase: Hello
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Converted string: hello
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Exiting convertStringToLowerCase
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Comparing strings: Hello and Hello
+2025-05-02 22:17:52 DEBUG [main] DSA.string.CustomString - Comparison result: true
+2025-05-02 22:17:52 INFO  [main] DSA.string.CustomString - Exiting compareTwoStrings
+2025-05-02 22:17:52 INFO  [main] DSATest.CustomStringTest - CustomStringTest completed successfully
+2025-05-02 22:21:36 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:21:36 ERROR [main] DSA.string.CustomString - String is null, please check your input
+2025-05-02 22:21:36 ERROR [main] DSA.string.CustomString - Error occurred while printing string: String is null, please check your input
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Exiting printStringWithForEach
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Printing string with while do loop
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Exiting printStringWithWhileDo
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Converting string to uppercase: hello
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Converted string: HELLO
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Exiting convertStringToUpperCase
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Converting string to lowercase: Hello
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Converted string: hello
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Exiting convertStringToLowerCase
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Comparing strings: Hello and Hello
+2025-05-02 22:21:36 DEBUG [main] DSA.string.CustomString - Comparison result: true
+2025-05-02 22:21:36 INFO  [main] DSA.string.CustomString - Exiting compareTwoStrings
+2025-05-02 22:21:36 INFO  [main] DSATest.CustomStringTest - CustomStringTest completed successfully
+2025-05-02 22:21:59 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:21:59 ERROR [main] DSA.string.CustomString - Error occurred while printing string: null
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Exiting printStringWithForEach
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Printing string with while do loop
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Exiting printStringWithWhileDo
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Converting string to uppercase: hello
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Converted string: HELLO
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Exiting convertStringToUpperCase
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Converting string to lowercase: Hello
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Converted string: hello
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Exiting convertStringToLowerCase
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Comparing strings: Hello and Hello
+2025-05-02 22:21:59 DEBUG [main] DSA.string.CustomString - Comparison result: true
+2025-05-02 22:21:59 INFO  [main] DSA.string.CustomString - Exiting compareTwoStrings
+2025-05-02 22:21:59 INFO  [main] DSATest.CustomStringTest - CustomStringTest completed successfully
+2025-05-02 22:28:22 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:28:22 ERROR [main] DSA.string.CustomString - Error occurred while printing string: null
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Exiting printStringWithForEach
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Printing string with while do loop
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Exiting printStringWithWhileDo
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Converting string to uppercase: hello
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Converted string: HELLO
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Exiting convertStringToUpperCase
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Converting string to lowercase: Hello
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Converted string: hello
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Exiting convertStringToLowerCase
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Comparing strings: Hello and Hello
+2025-05-02 22:28:22 DEBUG [main] DSA.string.CustomString - Comparison result: true
+2025-05-02 22:28:22 INFO  [main] DSA.string.CustomString - Exiting compareTwoStrings
+2025-05-02 22:28:22 INFO  [main] DSATest.CustomStringTest - CustomStringTest completed successfully
+2025-05-02 22:29:09 INFO  [main] DSATest.CustomStringTest - Starting CustomStringTest
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Printing string with for loop
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Exiting printString
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Printing string with for each loop
+2025-05-02 22:29:09 ERROR [main] DSA.string.CustomString - Error occurred while printing string with for each loop: null
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Exiting printStringWithForEach
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Printing string with while do loop
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 0: H
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 1: e
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 2: l
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 3: l
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Current character at position 4: o
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Exiting printStringWithWhileDo
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Converting string to uppercase: hello
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Converted string: HELLO
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Exiting convertStringToUpperCase
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Converting string to lowercase: Hello
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Converted string: hello
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Exiting convertStringToLowerCase
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Comparing strings: Hello and Hello
+2025-05-02 22:29:09 DEBUG [main] DSA.string.CustomString - Comparison result: true
+2025-05-02 22:29:09 INFO  [main] DSA.string.CustomString - Exiting compareTwoStrings
+2025-05-02 22:29:09 INFO  [main] DSATest.CustomStringTest - CustomStringTest completed successfully
